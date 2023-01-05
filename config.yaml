@@ -210,7 +210,7 @@ menu:
             url: https://music.apple.com/jp/profile/nano_meow
             params:
                 icon: music
-        -   identifier: github
+        -   identifier: brand-github
             name: 1GitHub
             url: https://github.com/anakanano
             params:

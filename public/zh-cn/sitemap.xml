@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.nanomeow.icu/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-05T17:08:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -19,6 +19,12 @@
                 hreflang="zh-cn"
                 href="https://blog.nanomeow.icu/"
                 />
+  </url><url>
+    <loc>https://blog.nanomeow.icu/post/</loc>
+    <lastmod>2023-01-05T17:08:51+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.nanomeow.icu/p/build-log/</loc>
+    <lastmod>2023-01-05T17:08:51+08:00</lastmod>
   </url><url>
     <loc>https://blog.nanomeow.icu/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -39,9 +45,6 @@
                 />
   </url><url>
     <loc>https://blog.nanomeow.icu/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.nanomeow.icu/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.nanomeow.icu/categories/test/</loc>

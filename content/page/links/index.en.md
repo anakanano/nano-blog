@@ -12,7 +12,7 @@ links:
     image: https://ry.mk/images/avatar.webp
   - title: 伊緻幻の主页
     description: Take my hands
-    website: https://www.chwin.com
+    website: https://www.chwin.asia
     image: https://b.chwin.asia/wp-content/uploads/2022/11/cropped-lab.magiconch.com90s-time-machine-1667800846069.jpg
   - title: BWMC社区
     description: 一个供大家交流的社区～
