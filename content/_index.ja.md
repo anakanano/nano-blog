@@ -1,7 +1,8 @@
 ---
 menu:
     main:
-        name: Home
+        name: ホーム
+        slug: home
         weight: -100
         params:
             icon: home

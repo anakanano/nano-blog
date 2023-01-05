@@ -6,19 +6,35 @@ title: Example Site
 
 languages:
     zh-cn:
-        languageName: 中文
-        title: 演aaaa
-        description: 演示说明
+        languageName: 简体中文
+        title: nano-blog
+        params:
+            sidebar:
+                emoji: 🍥
+                subtitle: 前天是小兔子，昨天是小鹿，今天是你
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/avatar.png
+        description:
         weight: 1
     en:
         languageName: English
-        title: Example Site
-        description: Example description
+        title: nano-blog
+        description: aaaa
         weight: 3
     ja:
         languageName: 日本語
-        title: なの
-        description: aaa
+        title: nano-blog
+        params:
+            sidebar:
+                emoji: 🍥
+                subtitle: 昨日は兎を见たわ。昨日は鹿、今日はあなた
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/avatar.png
+        description: 
         weight: 2
 
 # Change it to your Disqus shortname before using
@@ -33,7 +49,7 @@ DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 permalinks:
     post: /p/:slug/
@@ -44,31 +60,24 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
+    # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
-    sidebar:
-        emoji: 🍥
-        subtitle: 前天是小兔子，昨天是小鹿，今天是你
-        avatar:
-            enabled: true
-            local: true
-            src: img/avatar.jpg
-
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: CC BY-NC-SA 4.0
 
     comments:
         enabled: true
@@ -197,22 +206,32 @@ menu:
     main: []
 
     social:
+        -   identifier: applemusic
+            name: 5applemusic
+            url: https://music.apple.com/jp/profile/nano_meow
+            params:
+                icon: music
         -   identifier: github
-            name: GitHub
-            url: https://github.com/CaiJimmy/hugo-theme-stack
+            name: 1GitHub
+            url: https://github.com/anakanano
             params:
                 icon: brand-github
-
         -   identifier: twitter
-            name: Twitter
-            url: https://twitter.com
+            name: 2Twitter
+            url: https://twitter.com/nano_meow
             params:
                 icon: brand-twitter
         -   identifier: telegram
-            name: telegram
+            name: 3telegram
             url: https://t.me/nano_meow
             params:
                 icon: brand-telegram
+        -   identifier: mail
+            name: 4mail
+            url: mailto:nano_meow@gmail.com
+            params:
+                icon: mail
+
 related:
     includeNewer: true
     threshold: 60

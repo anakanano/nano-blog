@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.nanomeow.icu/ja/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.nanomeow.icu/ja/"
+                />
+  </url><url>
+    <loc>https://blog.nanomeow.icu/ja/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.nanomeow.icu/ja/page/"
+                />
+  </url><url>
+    <loc>https://blog.nanomeow.icu/ja/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.nanomeow.icu/ja/archives/"
+                />
+  </url><url>
+    <loc>https://blog.nanomeow.icu/ja/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.nanomeow.icu/ja/about/"
+                />
+  </url><url>
     <loc>https://blog.nanomeow.icu/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,21 +108,38 @@
                 href="https://blog.nanomeow.icu/ja/tags/"
                 />
   </url><url>
-    <loc>https://blog.nanomeow.icu/ja/</loc>
+    <loc>https://blog.nanomeow.icu/ja/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.nanomeow.icu/"
+                href="https://blog.nanomeow.icu/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.nanomeow.icu/en/"
+                href="https://blog.nanomeow.icu/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://blog.nanomeow.icu/ja/"
+                href="https://blog.nanomeow.icu/ja/links/"
+                />
+  </url><url>
+    <loc>https://blog.nanomeow.icu/ja/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.nanomeow.icu/ja/search/"
                 />
   </url>
 </urlset>

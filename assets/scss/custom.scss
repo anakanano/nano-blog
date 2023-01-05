@@ -120,7 +120,7 @@ a {
     // 默认模式下引用块背景样式
     --blockquote-background-color: #b9ebea4d;
     // 全局字体大小
-    --article-font-size: 2.0rem;
+    --article-font-size: 1.6rem;
     // 表格配色样式
     --tr-even-background-color: #eff0fa54 !important;
     &[data-scheme="dark"] {
@@ -144,4 +144,14 @@ a {
             }
         }
     }
+}
+
+body {
+    cursor: url(https://hexo-blog-1307365020.cos.ap-nanjing.myqcloud.com/mouse/01.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://hexo-blog-1307365020.cos.ap-nanjing.myqcloud.com/mouse/02.cur),
+        default;
 }

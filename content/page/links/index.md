@@ -1,5 +1,6 @@
 ---
 title: "友链"
+slug: "links"
 links:
   - title: Vincent文朔
     website: https://blog.vincent1230.top/
@@ -25,7 +26,7 @@ menu:
     main: 
         weight: -50
         params:
-            icon: link
+            icon: heart
 
 comments: true
 ---
