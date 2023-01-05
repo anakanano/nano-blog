@@ -56,7 +56,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 前天是小兔子，昨天是小鹿，今天是你
         avatar:
             enabled: true
             local: true
@@ -138,11 +138,11 @@ params:
             emitMetadata: 0
 
         gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
+            owner: anakanano
+            admin: anakanano
+            repo: anakanano/nano-blog
+            clientID: 52ce3ac4689d3f1a3c5d
+            clientSecret: deb77c043be9f144d3075e2c956af3893fd7e61f
 
         cusdis:
             host:
@@ -196,18 +196,22 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
+        -   identifier: github
+            name: GitHub
+            url: https://github.com/CaiJimmy/hugo-theme-stack
+            params:
+                icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
-
+        -   identifier: twitter
+            name: Twitter
+            url: https://twitter.com
+            params:
+                icon: brand-twitter
+        -   identifier: telegram
+            name: telegram
+            url: https://t.me/nano_meow
+            params:
+                icon: brand-telegram
 related:
     includeNewer: true
     threshold: 60
