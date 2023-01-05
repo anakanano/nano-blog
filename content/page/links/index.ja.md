@@ -18,12 +18,12 @@ links:
     description: 一个供大家交流的社区～
     url: https://cmu.bwmc.live
     image: https://cmu.bwmc.live/siteicon.png
-  - title: 洛屿的小站  
+  - title: 洛屿的小站 
     description: 嗨，靓仔，今天也要有个好心情哦！
     website: https://www.drluo.top/
     image: https://cravatar.cn/avatar/6fa57e21db3ba5961f18a8ae75d0a081?s=100
 menu:
-    main: 
+    main:
         weight: -50
         params:
             icon: heart
@@ -40,13 +40,13 @@ color: #FADBD8
 ```
 ## リンクを追加🔗
 このページに次の形式でコメントしてください～
->站点名：xxxxx
+>サイト名：xxxxxxxx
 >
->简介：xxxxxxx
+>説明：xxxxxxxxxxx
 >
->链接: https://xxxx
+>リンク: https://xxxxxxxx
 >
->头像链接: https://xxxxxxx
+>アバターのリンク: https://xxxxxxxxxx
 ## 必ずお読みください
 - サイトは正常にアクセスできます
 - アバターは正常にロードできます

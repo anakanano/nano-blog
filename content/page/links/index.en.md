@@ -18,7 +18,7 @@ links:
     description: 一个供大家交流的社区～
     url: https://cmu.bwmc.live
     image: https://cmu.bwmc.live/siteicon.png
-  - title: 洛屿的小站  
+  - title: 洛屿的小站
     description: 嗨，靓仔，今天也要有个好心情哦！
     website: https://www.drluo.top/
     image: https://cravatar.cn/avatar/6fa57e21db3ba5961f18a8ae75d0a081?s=100

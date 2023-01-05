@@ -8,4 +8,7 @@ categories:
     - Hugo
     - Blog
 ---
+## 搭建Hugo环境
+⚠️这里以macOS为例，其他系统请自行前往 https://gohugo.io/installation/ 了解
+### 安装Homebrew
 
