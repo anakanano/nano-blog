@@ -30,21 +30,23 @@ menu:
 
 comments: true
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
+## サイト情報📄
 ```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+name: nano-blog
+url: https://blog.nanomeow.icu
+desc: 昨日は兎を见たわ。昨日は鹿、今日はあなた
+images: https://blog.nanomeow.icu/avatar.png
+color: #FADBD8
 ```
-
-`image` field accepts both local and external images.
+## リンクを追加🔗
+このページに次の形式でコメントしてください～
+>站点名：xxxxx
+>
+>简介：xxxxxxx
+>
+>链接: https://xxxx
+>
+>头像链接: https://xxxxxxx
+## 必ずお読みください
+- サイトは正常にアクセスできます
+- アバターは正常にロードできます

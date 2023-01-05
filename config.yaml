@@ -15,7 +15,7 @@ languages:
                 avatar:
                     enabled: true
                     local: true
-                    src: img/avatar.png
+                    src: img/avatar.jpg
         description:
         weight: 1
     en:
@@ -33,8 +33,8 @@ languages:
                 avatar:
                     enabled: true
                     local: true
-                    src: img/avatar.png
-        description: 
+                    src: img/avatar.jpg
+        description:
         weight: 2
 
 # Change it to your Disqus shortname before using
