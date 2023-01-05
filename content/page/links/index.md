@@ -27,24 +27,13 @@ menu:
         weight: -50
         params:
             icon: heart
-
 comments: true
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
+# 本站信息
 ```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+name: nano-blog
+url: https://blog.nanomeow.icu
+desc: 前天是小兔子，昨天是小鹿，今天是你
+images: https://blog.nanomeow.icu/avatar.png
+color: #FADBD8
 ```
-
-`image` field accepts both local and external images.
