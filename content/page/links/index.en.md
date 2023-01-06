@@ -18,33 +18,35 @@ links:
     description: 一个供大家交流的社区～
     url: https://cmu.bwmc.live
     image: https://cmu.bwmc.live/siteicon.png
-  - title: 洛屿的小站
+  - title: 洛屿的小站 
     description: 嗨，靓仔，今天也要有个好心情哦！
     website: https://www.drluo.top/
     image: https://cravatar.cn/avatar/6fa57e21db3ba5961f18a8ae75d0a081?s=100
 menu:
-    main: 
+    main:
         weight: -50
         params:
             icon: heart
 
 comments: true
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
+## サイト情報📄
 ```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+name: nano-blog
+url: https://blog.nanomeow.icu
+desc: 昨日は兎を见たわ。昨日は鹿、今日はあなた
+images: https://blog.nanomeow.icu/avatar.png
+color: #FADBD8
 ```
-
-`image` field accepts both local and external images.
+## リンクを追加🔗
+このページに次の形式でコメントしてください～
+>サイト名：xxxxxxxx
+>
+>説明：xxxxxxxxxxx
+>
+>リンク: https://xxxxxxxx
+>
+>アバターのリンク: https://xxxxxxxxxx
+## 必ずお読みください
+- サイトは正常にアクセスできます
+- アバターは正常にロードできます
