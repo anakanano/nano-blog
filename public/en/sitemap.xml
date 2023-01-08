@@ -17,6 +17,16 @@
   </url><url>
     <loc>https://blog.nanomeow.icu/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/archives/"
+                />
   </url><url>
     <loc>https://blog.nanomeow.icu/en/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -56,8 +66,28 @@
                 />
   </url><url>
     <loc>https://blog.nanomeow.icu/en/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/links/"
+                />
   </url><url>
     <loc>https://blog.nanomeow.icu/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.nanomeow.icu/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.nanomeow.icu/en/search/"
+                />
   </url><url>
     <loc>https://blog.nanomeow.icu/en/tags/</loc>
     <xhtml:link

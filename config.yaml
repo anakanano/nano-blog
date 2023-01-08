@@ -30,7 +30,7 @@ languages:
                     local: true
                     src: img/avatar.jpg
         description: aaaa
-#        weight: 3
+        weight: 3
 #    ja:
 #        languageName: 日本語
 #        title: nano-blog
@@ -44,7 +44,7 @@ languages:
 #                    src: img/avatar.jpg
 #        description:
 #        weight: 2
-#
+
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
 
