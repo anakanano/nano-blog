@@ -73,7 +73,7 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: 喵呜喵呜～
 
     dateFormat:
         published: Jan 02, 2006
