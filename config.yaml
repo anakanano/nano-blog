@@ -7,7 +7,7 @@ title: Example Site
 languages:
     zh-cn:
         languageName: 简体中文
-        title: nano-blog
+        title: nano
         params:
             sidebar:
                 emoji: 🍥
